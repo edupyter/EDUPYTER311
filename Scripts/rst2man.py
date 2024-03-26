@@ -1,4 +1,4 @@
-#!C:\Users\laure\Documents\python-3.10.11\apps\python.exe
+#!C:\Users\laure\Documents\python-3.11.18\apps\python.exe
 
 # Author:
 # Contact: grubert@users.sf.net

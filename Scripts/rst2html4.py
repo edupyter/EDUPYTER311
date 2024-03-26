@@ -1,4 +1,4 @@
-#!C:\Users\laure\Documents\python-3.10.11\apps\python.exe
+#!C:\Users\laure\Documents\python-3.11.18\apps\python.exe
 
 # $Id: rst2html4.py 9115 2022-07-28 17:06:24Z milde $
 # Author: David Goodger <goodger@python.org>
